@@ -29,9 +29,9 @@ The dataset used in this project consists of simulated credit card transactions,
 
 ## Results
 
-- **Logistic Regression**: Achieved an accuracy of X% and an AUC score of Y.
-- **Decision Trees**: Achieved an accuracy of X% and an AUC score of Y.
-- **Random Forests**: Achieved an accuracy of X% and an AUC score of Y.
+- **Logistic Regression**: Achieved an accuracy of 0.9865% and an AUC score of 0.512324.
+- **Decision Trees**: Achieved an accuracy of  0.9710 % and an AUC score of 0.492144.
+- **Random Forests**: Achieved an accuracy of 0.9710% and an AUC score of 0.488953.
 
 ## Conclusion
 
